@@ -1,2 +1,2 @@
-# sample_ml_regression
-Sample generic code for regression machine learning problems using XGBoost and SimpleImputation
+# Machine Learning regression model
+Machine learning regression model using XGBoost and SimpleImputation
